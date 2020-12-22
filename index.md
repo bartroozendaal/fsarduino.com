@@ -1,3 +1,3 @@
 #fsarduino
 
-Let's integratie ;-)
+Let's integrate ;-)

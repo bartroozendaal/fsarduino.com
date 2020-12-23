@@ -3,8 +3,7 @@ description: Creating a integration between Flight Simulator 2020 and Arduino
 author:
   name: "Bart Roozendaal"
   email: "bart@fsarduino.com"
-  url: "https://fsarduino.com
-
+  url: "https://fsarduino.com"
 
 source: .
 destination: ./_site

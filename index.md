@@ -13,4 +13,4 @@ To be open and transparent: I have a full time job, also have a significant proj
 
 This is also my first open source project, so let's see how this goes. Please, don't depend on anything I deliver before I label it v1.0. If I decide to do so, I'll commit on supporting it for some time at least. It might die during the process though.
 
-If you want to get involved, drop me a link at bart@fsarduino.com, or find me on twitter [@fsardiuno](https://twitter.com/fsarduino).
+If you want to get involved, drop me a link at [bart@fsarduino.com](mailto:bart@fsarduino.com), or find me on twitter [@fsardiuno](https://twitter.com/fsarduino).

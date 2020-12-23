@@ -1,5 +1,5 @@
 ---
-title: First elecontric success
+title: First electronics success
 ---
 I am a super novice when it comes to electronics. Never learned it in school, never used it in my work. Never soldered anything. But, as part of this endeavour, I need to know a bit about it. So, I bought some gear and tonight started my first task. Attaching a LCD display to my Uno.
 

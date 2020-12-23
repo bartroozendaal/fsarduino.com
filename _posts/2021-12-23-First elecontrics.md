@@ -3,6 +3,8 @@ title: First elecontric success
 ---
 I am a super novice when it comes to electronics. Never learned it in school, never used it in my work. Never soldered anything. But, as part of this endeavour, I need to know a bit about it. So, I bought some gear and tonight started my first task. Attaching a LCD display to my Uno.
 
+![Success](assets/first success.jpg)
+
 I watched [this video](https://www.circuitbasics.com/how-to-set-up-an-lcd-display-on-an-arduino/) about five times before I started the job. I thought I made good progress, but when I first plugged things in, just the backlight worked. That's it.
 
 I'm not worried about the software part of the project. It's the hardware part that will give me the most problems. After triple checking all the wires, I started again. Taking the pin header out, broke it. Some pins were fixed in place, others were lose. So, I took it out, and watched [another video](https://www.youtube.com/watch?v=37mW1i_oEpA) for some tips on soldering the pin header.
@@ -15,4 +17,4 @@ The cables are still a bit shaky, but that's also due to the [jumper cables](htt
 
 Anyways, here's the result after my first night of electronics. The seasoned people will laugh at it, but it's the first step!
 
-![Success](assets/first success.jpg)
+![Success](assets/first success.mp4)

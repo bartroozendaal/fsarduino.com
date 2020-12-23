@@ -15,4 +15,4 @@ The cables are still a bit shaky, but that's also due to the [jumper cables](htt
 
 Anyways, here's the result after my first night of electronics. The seasoned people will laugh at it, but it's the first step!
 
-![Success](../_images/first success.jpg)
+![Success](assets/first success.jpg)

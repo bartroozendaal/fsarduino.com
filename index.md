@@ -1,5 +1,6 @@
-# fsarduino
-
+---
+title: FsArduino
+---
 The project creates an interface between an Arduino and Flight Simulator 2020. I'm focusing on an Arduino Uno and will be using simconnect to connect to Flight Simulator 2020.
 
 There is/used to be a library link2fs but it seems old and no longer supported. In fact, I couldn't access the pages that go with it anymore. From the videos it looks like it was built beginning of 2000 or something like that.

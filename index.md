@@ -1,7 +1,3 @@
----
-title: null
----
-
 # fsarduino
 
 The project creates an interface between an Arduino and Flight Simulator 2020. I'm focusing on an Arduino Uno and will be using simconnect to connect to Flight Simulator 2020.

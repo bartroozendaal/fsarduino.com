@@ -3,7 +3,7 @@ title: First electronics success
 ---
 I am a super novice when it comes to electronics. Never learned it in school, never used it in my work. Never soldered anything. But, as part of this endeavour, I need to know a bit about it. So, I bought some gear and tonight started my first task. Attaching a LCD display to my Uno.
 
-![Success](assets/first success.jpg)
+[![Success](assets/first success.jpg)](https://youtu.be/RheNt7bEDao)
 
 I watched [this video](https://www.circuitbasics.com/how-to-set-up-an-lcd-display-on-an-arduino/) about five times before I started the job. I thought I made good progress, but when I first plugged things in, just the backlight worked. That's it.
 
@@ -16,5 +16,3 @@ I plugged the stuff in again, but my first encoder didn't work. I already was un
 The cables are still a bit shaky, but that's also due to the [jumper cables](https://www.conrad.nl/p/makerfactory-jkmm40-jumper-kabel-arduino-banana-pi-raspberry-pi-40x-draadbrug-stekker-40x-draadbrug-stekker-3000-1970437) being a bit thin. So, [another order](https://www.amazon.nl/gp/product/B08FC7X1LP/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) is out for slightly better ones (I hope).
 
 Anyways, here's the result after my first night of electronics. The seasoned people will laugh at it, but it's the first step!
-
-[Success](assets/first success.mp4)

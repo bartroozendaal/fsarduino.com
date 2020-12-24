@@ -1,6 +1,6 @@
 I'm getting the hang of it all a bit. I got a led, a switch plus a potentiometer connected. I didn't success with the rotary connector yet; I'm suspecting I need a capacitor connected to eliminate some noise from the rotary connector. I ordered some yesterday, so I can try that shortly.
 
-[![First integration](assets/first integration.jpg)](https://youtu.be/TAsx6gYZW34)
+[![First integration](assets/first integration.png)](https://youtu.be/TAsx6gYZW34)
 
 I also resoldered the LCD display. I'm still not happy with my soldering, but I've accepted that will improve over time. This time, it worked in one go, so that's progress I guess.
 

@@ -12,6 +12,8 @@ I also spent some time on the software for the interface service. Since I want t
 - The Arduino can send commands to either push data, or request data. The reader will get the command, and have a [Command Broker](https://en.wikipedia.org/wiki/Command_pattern) handle that.
 - The same will go for the SimConnect interface. That too will use a reader and writer (in this case just one implementation for each, as there is only one version of the SimConnect interface).
 
+![Main flow](assets/Sketch.png)
+
 Using this setup it will be a simple matter of reading a command, handling it, and optionally send information using a writer. The architecture of the software will be quite simple to be honest.
 
 The architecture also helps me to start implementing, even without a WiFi-board on my Uno (they should arrive before 31 December). 

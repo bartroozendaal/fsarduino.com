@@ -6,4 +6,4 @@ To communicatie between de simConnect interface and the Arduino, I will use [Cmd
 
 The radio panel is showing up nicely. Next stop is setting the frequencies and swapping between the STANDBY frequency and the ACTIVE frequency. Also, switching between COM1 and COM2 of course.
 
-Anyways, I properly on my way with the software development. I'm expecting some workable results soon.
+Anyways, I'm properly on my way with the software development. I expect some workable results soon.

@@ -1,3 +1,7 @@
+TLDR; Update already after a few minutes in. I'm super impressed by [PlatformIO](https://docs.platformio.org/en/latest/what-is-platformio.html). Best integration in VsCode I have seen so far for any tool. Super glad I found this.
+
+---
+
 I'm ready to start the serious part of the software development. I'm done with tinkering with my code to figure out how things work. I'm far from being an expert on the Arduino and C++ (I'm still rusty), but I now know enough of what I want the software to do to start and I need to start setting things up in a proper way.
 
 ![Unit testing](assets/software-bug.jpg)

@@ -12,6 +12,6 @@ I am from the old days where 4K memory was the norm. The Uno has only 2K memory,
 
 But, I also really like this experience. It challenges me even more in getting the best software out there. I will have to unlearn some things that I am now accustomed to, but I'll get there.
 
-But not this year. We're going to wave goodby to 2020 very, very shortly and let's hope for a better new in 2021.
+But not this year. We're going to wave goodby to 2020 very, very shortly and let's hope for a better year in 2021.
 
 HAPPY NEW YEAR everybody!

@@ -8,6 +8,8 @@ The wall with the boxes will be general storage (probably with boxes ;-)) and I'
 
 Looking at it from the other side, you can see the space where the cockpit will be. On the left hand side of the picture there will be a 40 inch screen that I still got lying around. On the wall there will be a monitor for the right hand outside view. For the left hand view I will either create a permanent setup for a monitor, or a monitor on a swivel monitor arm, so I can fold it away. I haven't decided on that yet.
 
+![Cellar schematics](assets/cellar-schematics.jpeg)
+
 The total available area is 2.70 meters by 1.90 meters. It is not large but plenty of space for this set up I think. One slight problem is the height of the cellar: it's only about 1.70 meters. So, I cannot stand up straight.
 
 After cleaning I will create an epoxy floor, and will put a rolling desk chair in the room. That will make it easy to clean and gives me a possibility to conveniently 'move' around. I've already got wired internet in the cellar, which is a good thing, because WiFi reception is zero.

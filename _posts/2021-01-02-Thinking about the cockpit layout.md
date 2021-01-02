@@ -1,6 +1,6 @@
 I'm thinking about the layout of the cockpit. First I thought to make it completely fixed, but I will want to fly different planes. And, with a different plane comes a different layout. So, I am planning to be able to (sort of) swap out the layout of the cockpit.
 
-![Configurable cockpit layout](assets/cockpit layout-jpeg)
+![Configurable cockpit layout](assets/cockpit layout.jpeg)
 
 There are basically two parts in the layout:
 

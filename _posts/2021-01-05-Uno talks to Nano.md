@@ -1,6 +1,6 @@
 Since Air Manager doesn't support I2C displays from script, I need to create a small sketch (so not 'native' Air Manager script) to get information from Air Manager on a display. I'm using a Arduino Nano for that. My instrument (which will not have a display), will be driven by a native script, that talks to the Nano with the display. Takes me two Arduino's to accomplish this, but that's fine. The Nano is cheap enough to do that.
 
-[![Uno talks to Nano](assets/uno talks to nano.png)](https://www.youtube.com/watch?v=vtjbWVuWKmY)
+[![Uno talks to Nano](assets/Uno talks to Nano.png)](https://www.youtube.com/watch?v=vtjbWVuWKmY)
 
 Unfortunately Air Manager doesn't support I2C devices, but has implemented a 'communication protocol' to have devices talk to each other. The documentation is, well, not once you understand the principles, it's easy to implement.
 

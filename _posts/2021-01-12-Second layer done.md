@@ -2,4 +2,4 @@ As a seasoned (...) epoxy floor manager, I just used my lunch break to put on th
 
 This time I opted to get a bit lighter color. The previous one turned out to be a bit too dark to my tasting. I chose RAL1013, which should be something like [this color](https://rgb.to/ral/1013).
 
-Tomorrow, when all hsa dried up, I'll post some pictures.
+Tomorrow, when all has dried up, I'll post some pictures.

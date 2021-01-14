@@ -1,0 +1,3 @@
+The floor has dried up quite nicely, so it's ready for the next steps. I'm calculating the material I need for the walls and ceiling of the cellar, will put out my order and start working on those. Completing those will make the cellar accessible for me to work in. Can't wait for it to be honest...
+
+![Dry floor](assets/floor done.jpg)

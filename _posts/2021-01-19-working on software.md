@@ -1,6 +1,6 @@
 Today I didn't feel like working on the cellar. Yesterday I completed most of the electricity, so that is almost done.
 
-[![Electricity](assets/Electricity.png](https://youtu.be/Iog_6I5dCxw)
+[![Electricity](assets/Electricity.png)](https://youtu.be/Iog_6I5dCxw)
 
 I spent some time on the software, further investigating the integration with Air Manager. I tried to get one Arduino working with two potentiometers and a display, to change the radio frequency. That wasn't too difficult, so I'm pretty confident that will work out.
 

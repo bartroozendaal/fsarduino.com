@@ -14,7 +14,7 @@ All of this would mean of course that it is a truly custom radio panel, made to 
 Haven't made up my mind yet, about any of this...
 
 ## Update
-After some Googling I decided against building a keypad myself. There are some good alternatives off the shelf that will same me from some soldering.
+After some Googling I decided against building a keypad myself. There are some good alternatives off the shelf that will save me from some soldering.
 
 ![Keypad](assets/keypad.jpg)
 

@@ -12,3 +12,10 @@ Last option is to go for a Arduino Leonard of course. That one has 20 digital pi
 All of this would mean of course that it is a truly custom radio panel, made to my liking. But there's an elegancy to that too..
 
 Haven't made up my mind yet, about any of this...
+
+## Update
+After some Googling I decided against building a keypad myself. There are some good alternatives off the shelf that will same me from some soldering.
+
+![Keypad](assets/keypad.jpg)
+
+I opted for the keypads from [az-delivery.de](https://www.az-delivery.de/en/collections/alle-produkte/products/4x4-matrix-numpad), which in a bundle of five come to less than €5,00. That's a price I won't be soldering for ;-)

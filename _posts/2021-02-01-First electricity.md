@@ -1,2 +1,3 @@
 The first electricity is connected. I come one outlet short, so that will follow tomorrow and then everything will be connected to the power. Not a lot of work to be done today; doing this next to your daytime job is sometimes a bit tiring. Tomorrow's another day.
 ![First electricity](assets/First electricity.jpg)
+Not quite sure if I have enough room behind the monitor to feed the power cables, but we'll see in a few days when I can hang it. If not, I'll work around it. Not too worried about it tbh...

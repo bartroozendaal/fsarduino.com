@@ -1,2 +1,2 @@
 The first electricity is connected. I come one outlet short, so that will follow tomorrow and then everything will be connected to the power. Not a lot of work to be done today; doing this next to your daytime job is sometimes a bit tiring. Tomorrow's another day.
-![First electricity](assets/first electricity.jpg)
+![First electricity](assets/First electricity.jpg)

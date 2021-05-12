@@ -1,0 +1,3 @@
+Having the instruments lined out makes a difference and gives a better feel of the end result. In the mean time I've also applied a plastic foil to make the panel a bit more smooth. I'm not satisfied entirely, so I might end up having a panel laser printed and install that. Maybe I can contain myself and not do that just yet.
+![Aligned](assets/linedup.jpg)
+I'm currently working on the wiring. A few days off coming up, so if the weather is good, I'll drive my bike, otherwise I'll be in my cellar ;-)

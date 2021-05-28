@@ -6,3 +6,5 @@ It was a bit of fuzz to level the bed correctly and to find the correct temperat
 Tools I use:
 - [FreeCad](https://www.freecadweb.org/)
 - [Ultimaker](https://ultimaker.com/)
+## Pro tip
+I have my desk right next to the printer. It does make quite a bit of noise. However, I'm using an amazing tool [Krips](https://krisp.ai) to noise cancel during meetings. It is truly astonishing that nobody can hear the printer going during meetings, even though I am right next to it and it makes the noise of a starting Boeing ;-)

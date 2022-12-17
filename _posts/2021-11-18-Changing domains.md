@@ -1,3 +1,3 @@
-I switched domains to bart.roozendaal.online. I could buy this domain for a little money and having your own name is vain, but still fun. 
+I switched domains to www.roozendaal.online. I could buy this domain for a little money and having your own name is vain, but still fun. 
 
 Winter is coming and the work on the cockpit will restart shortly. So, keep your eye on this space....

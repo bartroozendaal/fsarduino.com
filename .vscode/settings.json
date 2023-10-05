@@ -6,5 +6,7 @@
         "markdown",
         "latex",
         "plaintext"
-    ]
+    ],
+    "mymonorepo.enabled": false,
+    "files.exclude": null
 }

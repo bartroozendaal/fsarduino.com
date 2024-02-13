@@ -24,7 +24,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
-
+theme: jekyll-theme-minimal
 # Custom variables
 owner : "Bart Roozendaal"
 year : "2020"
